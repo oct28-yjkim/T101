@@ -26,8 +26,8 @@ aws-cli/2.7.12 Python/3.9.11 Linux/5.15.49-1-MANJARO docker/x86_64.amzn.2 prompt
 Linux and macOS	~/.aws/config ~/.aws/credentials
 
 [yjkim1@yjkim1-mi 02.cloud]$ aws configure 
-AWS Access Key ID [None]: AKIAY75CGMHLTMUPAQVG
-AWS Secret Access Key [None]: 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
+AWS Access Key ID [None]: **
+AWS Secret Access Key [None]: **
 Default region name [None]: ap-southeast-1
 Default output format [None]: 
 
