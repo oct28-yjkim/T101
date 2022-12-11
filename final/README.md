@@ -109,9 +109,6 @@ pluralith destoy
 * apply 명령시 : 변경중인 인프라는 사선으로 에니메이션 효과가 있다. 극호감
 ![화면 ](./images/apply.png)
 
-* apply 명령시 : 변경중인 인프라는 사선으로 에니메이션 효과가 있다. 극호감
-![화면 ](./images/apply.png)
-
 * apply > event list
 ![화면 ](./images/apply_eventlist.png)
 
